@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="141px" viewBox="0 0 184 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>outline iso copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="branding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.0970335145">
+        <g id="Brand-identity" transform="translate(-469.000000, -19.000000)" stroke="#0061FF">
+            <g id="outline-iso" transform="translate(558.000000, 99.000000) rotate(-37.000000) translate(-558.000000, -99.000000) translate(488.000000, 29.000000)">
+                <g id="Page-1">
+                    <path d="M1.5001,92.1582 L93.7190284,124.685108 L130.319177,137.595588 C132.470003,138.46308 134.954852,137.979628 136.623625,136.310855 C138.899622,134.035652 138.899622,130.345543 136.667043,128.11124 L97.1473624,91.6556191 L100.217299,91.1775628 C122.032083,87.780523 138.3301,68.9166254 138.3301,46.6097 C138.3301,21.6961271 118.133673,1.4997 93.2201,1.4997 L23.3051,1.4997 C17.5727156,1.4997 12.1944921,3.72341925 8.15101481,7.63481349 C3.92704637,11.7208761 1.5001,17.3177066 1.5001,23.3047 L1.5001,92.1582 Z" id="Fill-1" stroke-width="3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

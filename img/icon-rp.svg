@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>iso 3d</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-172.540657%" x2="54.9110667%" y2="77.9466449%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="branding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Brand-identity" transform="translate(-854.000000, -61.000000)">
+            <g id="iso-3d" transform="translate(854.000000, 61.000000)">
+                <g id="Page-1" stroke-width="1" fill="#0061FF">
+                    <path d="M100.4481,92.6597 C122.7571,89.1857 139.8301,69.8927 139.8301,46.6097 C139.8301,20.8677 118.9621,-0.0003 93.2201,-0.0003 L23.3051,-0.0003 C17.0101,-0.0003 11.3021,2.4997 7.1081,6.5567 C2.7281,10.7937 0.0001,16.7287 0.0001,23.3047 L0.0001,46.6097 L0.0001,93.2197 L93.2201,126.0997 L129.7581,138.9867 L129.7581,138.9867 C132.4011,140.0527 135.5411,139.5147 137.6841,137.3717 C140.5461,134.5107 140.5461,129.8707 137.6841,127.0087 L100.4481,92.6597 Z" id="Fill-1"></path>
+                </g>
+                <polygon id="Path-3" fill="url(#linearGradient-1)" style="mix-blend-mode: multiply;" points="0.089289917 92.9084507 100.956583 92.9084507 116.24458 107.050633 69.0558395 117.01556"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

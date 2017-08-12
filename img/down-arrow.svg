@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow round right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web-Desing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-703.000000, -946.000000)" stroke="#C2C2C2">
+            <g id="seccion-home" transform="translate(0.000000, 145.000000)">
+                <g id="Arrow-round-right" transform="translate(720.500000, 818.500000) rotate(-270.000000) translate(-720.500000, -818.500000) translate(703.000000, 801.000000)">
+                    <g transform="translate(17.500000, 17.500000) scale(-1, 1) translate(-17.500000, -17.500000) ">
+                        <circle id="Oval" cx="17.5" cy="17.5" r="17"></circle>
+                        <polyline id="Shape" points="19.7647059 11.3235294 13.3823529 17.7058824 19.7647059 24.1911765"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
